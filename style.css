@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+
+#banner{
+    background-color: #ECBB4D;
+}
+
+#banner-2{
+    background-color: #1E3932;
+}
+
+#banner-3{
+    background-color: #FA745C;
+}
+
+#banner-4{
+    background-color: #F2F0EB;
+}
